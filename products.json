@@ -1,0 +1,145 @@
+{
+  "categories": [
+    {
+      "id": "cane-sofa-sets",
+      "name": "Cane Sofa Sets",
+      "description": "Handwoven cane sofa sets for living rooms, lounges, and hospitality spaces"
+    },
+    {
+      "id": "cane-chairs",
+      "name": "Cane Chairs",
+      "description": "Individually crafted cane chairs in colonial, contemporary, and lounge styles"
+    },
+    {
+      "id": "dining-sets",
+      "name": "Dining Sets",
+      "description": "Complete cane and bamboo dining sets for restaurants, cafes, and homes"
+    },
+    {
+      "id": "coffee-tables",
+      "name": "Coffee Tables",
+      "description": "Artisan bamboo and cane coffee tables with glass and wooden tops"
+    },
+    {
+      "id": "outdoor-furniture",
+      "name": "Outdoor Furniture",
+      "description": "Weather-resistant cane and bamboo outdoor furniture for resorts and gardens"
+    },
+    {
+      "id": "hospitality-furniture",
+      "name": "Hospitality Furniture",
+      "description": "Complete hospitality furniture packages for resorts, homestays, and hotels"
+    },
+    {
+      "id": "custom-furniture",
+      "name": "Custom Furniture",
+      "description": "Bespoke furniture crafted to your exact specifications and project vision"
+    }
+  ],
+  "products": [
+    {
+      "id": "p001",
+      "name": "Meghalaya Heritage Sofa Set",
+      "category": "cane-sofa-sets",
+      "description": "A three-piece cane sofa set inspired by the colonial architecture of Shillong. The intricate lattice weave reflects the handiwork of master artisans from Meghalaya. Ideal for heritage hotels, boutique stays, and premium residences.",
+      "material": "Natural cane frame with cotton-linen upholstery",
+      "dimensions": "3-seater: 180W × 75D × 90H cm | 2 armchairs: 80W × 75D × 90H cm",
+      "finish": "Natural honey or dark walnut",
+      "moq": "1 set",
+      "leadTime": "21-28 working days",
+      "badge": "Bestseller",
+      "image": "images/sofa-heritage.jpg"
+    },
+    {
+      "id": "p002",
+      "name": "Brahmaputra Lounge Chair",
+      "category": "cane-chairs",
+      "description": "A deep-seated lounge chair with flowing cane arms and a high wraparound backrest. Named after the great river of Assam, this chair embodies the unhurried pace of Northeast life. Perfect for resort lobbies and wellness retreats.",
+      "material": "Premium grade cane with teak wood accents",
+      "dimensions": "75W × 80D × 105H cm | Seat height: 42 cm",
+      "finish": "Natural, antique brown, or matte black",
+      "moq": "2 pieces",
+      "leadTime": "15-20 working days",
+      "badge": "Featured",
+      "image": "images/chair-lounge.jpg"
+    },
+    {
+      "id": "p003",
+      "name": "Khasi Highlands Dining Set",
+      "category": "dining-sets",
+      "description": "A 6-seater dining set with a solid bamboo tabletop and hand-turned cane chairs. Inspired by the Khasi community's tradition of communal dining. A statement piece for boutique cafes, heritage dining rooms, and resort restaurants.",
+      "material": "Laminated bamboo top, cane and wood frame chairs",
+      "dimensions": "Table: 180W × 90D × 75H cm | Chairs: 48W × 52D × 95H cm",
+      "finish": "Natural bamboo with clear lacquer",
+      "moq": "1 set",
+      "leadTime": "25-30 working days",
+      "badge": "New",
+      "image": "images/dining-khasi.jpg"
+    },
+    {
+      "id": "p004",
+      "name": "Nokrek Forest Coffee Table",
+      "category": "coffee-tables",
+      "description": "A sculptural coffee table with a bamboo base and tempered glass top. The base is crafted from thick-gauge bamboo culms arranged in an organic cluster, evoking the dense bamboo groves of Nokrek National Park.",
+      "material": "Thick-gauge bamboo culms with 8mm tempered glass top",
+      "dimensions": "100W × 60D × 45H cm",
+      "finish": "Natural bamboo with UV-resistant lacquer",
+      "moq": "2 pieces",
+      "leadTime": "12-18 working days",
+      "badge": "",
+      "image": "images/table-coffee.jpg"
+    },
+    {
+      "id": "p005",
+      "name": "Valley Breeze Outdoor Set",
+      "category": "outdoor-furniture",
+      "description": "An outdoor dining and seating set built for India's climate. Uses treated cane with weather-resistant finishes, perfect for resort pool decks, garden cafes, and outdoor wellness spaces. Lightweight yet durable.",
+      "material": "Varnished cane with polyester all-weather cushions",
+      "dimensions": "Table: 120W × 70D × 72H cm | Chairs: 55W × 58D × 88H cm",
+      "finish": "Teak oil or weather-resistant varnish",
+      "moq": "1 set (1 table + 4 chairs)",
+      "leadTime": "20-25 working days",
+      "badge": "Popular",
+      "image": "images/outdoor-set.jpg"
+    },
+    {
+      "id": "p006",
+      "name": "Resort Room Package — Standard",
+      "category": "hospitality-furniture",
+      "description": "A complete single-room furniture package for resorts and homestays. Includes bed frame, side tables, wardrobe, writing desk, chair, and a lounge chair. Crafted to match your property's aesthetic with custom finishes.",
+      "material": "Premium cane, bamboo, and teak wood combination",
+      "dimensions": "Customizable to room specifications",
+      "finish": "Available in 6 signature finishes",
+      "moq": "5 rooms minimum",
+      "leadTime": "35-45 working days",
+      "badge": "Hospitality",
+      "image": "images/resort-room.jpg"
+    },
+    {
+      "id": "p007",
+      "name": "Café Seating Package",
+      "category": "hospitality-furniture",
+      "description": "A curated café furniture package: bistro chairs, bar stools, café tables, and a reception counter. Designed for cafes that want to stand out with authentic craft. Mix-and-match finishes available.",
+      "material": "Cane and bamboo with mild steel accents",
+      "dimensions": "Custom per café layout",
+      "finish": "Natural, smoked bamboo, or painted",
+      "moq": "10 chairs minimum",
+      "leadTime": "28-35 working days",
+      "badge": "Popular",
+      "image": "images/cafe-package.jpg"
+    },
+    {
+      "id": "p008",
+      "name": "Bespoke Project Service",
+      "category": "custom-furniture",
+      "description": "Work directly with our artisan team to design furniture that doesn't exist yet. We handle everything from concept sketches to prototype approval to bulk production. Minimum 10-piece orders. Ideal for architects and interior designers.",
+      "material": "As specified",
+      "dimensions": "As specified",
+      "finish": "Unlimited",
+      "moq": "10 pieces minimum",
+      "leadTime": "45-60 working days (includes sampling)",
+      "badge": "Custom",
+      "image": "images/bespoke.jpg"
+    }
+  ]
+}
